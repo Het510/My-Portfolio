@@ -1,0 +1,1 @@
+﻿{"buildCommand":"CI=false npx --yes react-scripts build","outputDirectory":"build","framework":"create-react-app"}
